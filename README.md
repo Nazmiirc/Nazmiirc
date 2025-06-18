@@ -33,12 +33,12 @@ Here are some technologies and tools I frequently use:
 ---
 ## GitHub Stats 📈
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazmiirc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmiirc&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-*(Replace `your-username` with your GitHub username. You can customize the theme or add other cards from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
-
+<!-- *(Replace `your-username` with your GitHub username. You can customize the theme or add other cards from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
+-->
 ---
 
 ## Connect With Me ✉️
